@@ -3,11 +3,7 @@ import { colors } from "../helpers/colors";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import React from "react";
-import type { pageArrayType } from "../app";
-
-type DefaultListType = pageArrayType & {
-  orientation: "horizontal" | "vertical";
-};
+import type { DefaultListType } from "../types";
 
 const DefaultList = ({ pageArray, orientation }: DefaultListType) => {
   const router = useRouter();
@@ -115,6 +111,7 @@ const styles = StyleSheet.create({
     textAlignVertical: "center",
     color: colors.foreground,
     fontSize: 40,
+    fontFamily: "Barlow_600SemiBold",
   },
   verPressableViewText: {
     flex: 1,
