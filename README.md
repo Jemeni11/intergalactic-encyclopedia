@@ -6,12 +6,14 @@ Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! Thi
 
 ## Built With
 
-- React Native
-- Expo
-- Typescript
-- Expo Router
-- Expo Fonts
-- Expo Google Fonts (Barlow)
+- [React v18](https://react.dev/)
+- [React Native v0.71.4](https://reactnative.dev/)
+- [Expo SDK v48](https://expo.dev)
+- [Typescript v5](https://www.typescriptlang.org/)
+- [Expo Router v1](https://expo.github.io/router/docs/)
+- [React Native Safe Area Context v4](https://github.com/th3rdwave/react-native-safe-area-context#readme)
+- [Expo Fonts v11](https://docs.expo.dev/versions/latest/sdk/font/)
+- [Expo Google Fonts v0.2.3](https://docs.expo.dev/guides/using-custom-fonts/#using-a-google-font) ([Barlow](https://fonts.google.com/specimen/Barlow))
 
 ## Screenshots
 
