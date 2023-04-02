@@ -11,4 +11,10 @@ Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! Thi
 - Typescript
 - Expo Router
 - Expo Fonts
-- Expo Google Fonts (Barlow) 
+- Expo Google Fonts (Barlow)
+
+## Screenshots
+
+![ScreenShot_1](./screenshots/Screenshot_20230402-131727.png)
+
+![ScreenShot_2](./screenshots/Screenshot_20230402-131731.png)
