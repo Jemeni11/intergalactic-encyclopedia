@@ -16,7 +16,7 @@ const PageLayout = ({
       style={[
         styles.container,
         {
-          paddingTop: insets.top,
+          // paddingTop: insets.top,
           paddingLeft: insets.left,
           paddingRight: insets.right,
           paddingBottom: insets.bottom,
