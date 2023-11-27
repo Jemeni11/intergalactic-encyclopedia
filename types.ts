@@ -1,7 +1,9 @@
+export type paths = "/films" | "/people" | "/planets" | "/starships" | "/species" | "/vehicles";
+
 export type pageArrayT = {
   key: string;
   name: string;
-  path: string;
+  path: paths;
   icon_name:
     | "television-play"
     | "account-group"
