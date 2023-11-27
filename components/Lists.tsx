@@ -1,13 +1,12 @@
 import { StyleSheet, View, Pressable, Text } from "react-native";
 import { colors } from "../helpers/colors";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { useRouter } from "expo-router";
+import { router } from "expo-router";
 import React from "react";
-import type { DefaultListType } from "../types";
+import type { DefaultListType, paths } from "../types";
 
 const DefaultList = ({ pageArray, orientation }: DefaultListType) => {
-  const router = useRouter();
-  const listPressHandler = (path: string) => router.push(path);
+  const listPressHandler = (path: paths) => router.push(path);
 
   return (
     <View
