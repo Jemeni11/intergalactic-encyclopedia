@@ -10,6 +10,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "eslint app",
+    "prettier": "prettier --write .",
     "test": "jest --watchAll"
   },
   "jest": {
