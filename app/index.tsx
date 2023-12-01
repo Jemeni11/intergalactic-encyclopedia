@@ -1,15 +1,15 @@
-import { Pressable } from "react-native";
-import { useState } from "react";
-import { Stack } from "expo-router";
 import Ionicons from "@expo/vector-icons/Ionicons";
-import { colors } from "../helpers/colors";
+import { Stack } from "expo-router";
+import { useState } from "react";
+import { Pressable } from "react-native";
+
 import DefaultList from "../components/Lists";
+import { colors } from "../helpers/colors";
 import type { pageArrayT } from "../types";
 
 export default function Home() {
-  const [listOrientation, setListOrientation] = useState<
-    "horizontal" | "vertical"
-  >("horizontal");
+  const [listOrientation, setListOrientation] = useState<"horizontal" | "vertical">("horizontal");
+
   const pagesArray: pageArrayT = [
     {
       key: "1",
@@ -60,17 +60,9 @@ export default function Home() {
                 borderless: true,
                 color: "hsl(50.4, 94.59%, 60%)",
               }}
-              onPress={() =>
-                setListOrientation((prev) =>
-                  prev === "horizontal" ? "vertical" : "horizontal"
-                )
-              }
+              onPress={() => setListOrientation((prev) => (prev === "horizontal" ? "vertical" : "horizontal"))}
             >
-              {listOrientation !== "horizontal" ? (
-                <Ionicons name="list" size={28} color={colors.primary} />
-              ) : (
-                <Ionicons name="grid" size={28} color={colors.primary} />
-              )}
+              <Ionicons name={listOrientation !== "horizontal" ? "list" : "grid"} size={28} color={colors.primary} />
             </Pressable>
           ),
         }}

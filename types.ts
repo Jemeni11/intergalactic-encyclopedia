@@ -4,13 +4,7 @@ export type pageArrayT = {
   key: string;
   name: string;
   path: paths;
-  icon_name:
-    | "television-play"
-    | "account-group"
-    | "earth"
-    | "alien"
-    | "space-station"
-    | "car-convertible";
+  icon_name: "television-play" | "account-group" | "earth" | "alien" | "space-station" | "car-convertible";
 }[];
 
 export type pageArrayType = {

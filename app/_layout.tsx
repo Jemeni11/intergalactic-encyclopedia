@@ -1,8 +1,3 @@
-import { Stack } from "expo-router";
-import { SafeAreaProvider } from "react-native-safe-area-context";
-import { colors } from "../helpers/colors";
-import { useCallback } from "react";
-import PageLayout from "../components/PageLayout";
 import {
   useFonts,
   Barlow_400Regular,
@@ -18,12 +13,18 @@ import {
   Barlow_900Black,
   Barlow_900Black_Italic,
 } from "@expo-google-fonts/barlow";
+import { Stack } from "expo-router";
 import * as SplashScreen from "expo-splash-screen";
+import { useCallback } from "react";
+import { SafeAreaProvider } from "react-native-safe-area-context";
+
+import PageLayout from "../components/PageLayout";
+import { colors } from "../helpers/colors";
 
 SplashScreen.preventAutoHideAsync();
 
 const Layout = () => {
-  let [fontsLoaded] = useFonts({
+  const [fontsLoaded] = useFonts({
     Barlow_400Regular,
     Barlow_400Regular_Italic,
     Barlow_500Medium,
