@@ -1,4 +1,4 @@
-# Intergalactic Encyclopedia
+![Cover](./Intergalactic%20Encyclopaedia.png)
 
 ## Introduction
 
