@@ -1,20 +1,13 @@
-import {
-  StyleSheet,
-  Text,
-  View,
-  Pressable,
-  FlatList,
-  Image,
-  ImageBackground,
-} from "react-native";
-import PageLayout from "../../components/PageLayout";
+import { Image } from "expo-image";
 import { Stack, useRouter } from "expo-router";
+import React from "react";
+import { StyleSheet, Text, View, Pressable, FlatList } from "react-native";
+
+import DefaultList from "../../components/Lists";
+import PageLayout from "../../components/PageLayout";
+import filmsData from "../../data/films.json";
 import { colors } from "../../helpers/colors";
 import { BarlowFonts } from "../../helpers/fonts";
-import React from "react";
-import filmsData from "../../data/films.json";
-import DefaultList from "../../components/Lists";
-// import { Image } from "expo-image";
 
 const FilmsIndex = () => {
   const router = useRouter();
@@ -50,12 +43,9 @@ const FilmsIndex = () => {
           horizontal={false}
           renderItem={({ item }) => {
             return (
-              <Pressable
-                onPress={() => router.push(`/films/${item.episode_id}/`)}
-                style={{ marginVertical: 12 }}
-              >
+              <Pressable onPress={() => router.push(`/films/${item.episode_id}/`)} style={{ marginVertical: 12 }}>
                 <View style={styles.filmContainer}>
-                  <ImageBackground
+                  <Image
                     // @ts-ignore
                     source={imagePaths[item.episode_id]}
                     style={styles.image}
@@ -76,13 +66,14 @@ export default FilmsIndex;
 
 const styles = StyleSheet.create({
   pageDescription: {
-    fontFamily: BarlowFonts.Barlow_400Regular,
+    fontFamily: BarlowFonts.Barlow_600SemiBold,
     color: colors.primary,
-    fontSize: 36,
+    fontSize: 32,
     textAlign: "center",
+    paddingVertical: 12,
   },
   filmContainer: {
-    marginHorizontal: 8,
+    marginHorizontal: 24,
   },
   image: {
     flex: 1,
