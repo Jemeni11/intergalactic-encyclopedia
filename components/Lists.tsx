@@ -1,20 +1,16 @@
-import { StyleSheet, View, Pressable, Text } from "react-native";
-import { colors } from "../helpers/colors";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import React from "react";
+import { StyleSheet, View, Pressable, Text } from "react-native";
+
+import { colors } from "../helpers/colors";
 import type { DefaultListType, paths } from "../types";
 
 const DefaultList = ({ pageArray, orientation }: DefaultListType) => {
   const listPressHandler = (path: paths) => router.push(path);
 
   return (
-    <View
-      style={[
-        styles.container,
-        orientation === "vertical" && styles.verContainer,
-      ]}
-    >
+    <View style={[styles.container, orientation === "vertical" && styles.verContainer]}>
       {pageArray.map((page) => (
         <Pressable
           key={page.key}
@@ -25,29 +21,14 @@ const DefaultList = ({ pageArray, orientation }: DefaultListType) => {
             orientation === "vertical" && styles.verPressableContainer,
           ]}
         >
-          <View
-            style={[
-              styles.pressableViewContainer,
-              orientation === "vertical" && styles.verPressableViewContainer,
-            ]}
-          >
+          <View style={[styles.pressableViewContainer, orientation === "vertical" && styles.verPressableViewContainer]}>
             <MaterialCommunityIcons
               name={page.icon_name}
               size={80}
               color="black"
-              style={[
-                styles.pressableViewIcon,
-                orientation === "vertical" && styles.verPressableViewIcon,
-              ]}
+              style={[styles.pressableViewIcon, orientation === "vertical" && styles.verPressableViewIcon]}
             />
-            <Text
-              style={[
-                styles.pressableViewText,
-                orientation === "vertical" && styles.verPressableViewText,
-              ]}
-            >
-              {page.name}
-            </Text>
+            <Text style={[styles.pressableViewText, orientation === "vertical" && styles.verPressableViewText]}>{page.name}</Text>
           </View>
         </Pressable>
       ))}
