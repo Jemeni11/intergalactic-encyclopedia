@@ -22,14 +22,8 @@
         "https://swapi.py4e.com/api/films/7/"
       ],
       "species": ["https://swapi.py4e.com/api/species/1/"],
-      "vehicles": [
-        "https://swapi.py4e.com/api/vehicles/14/",
-        "https://swapi.py4e.com/api/vehicles/30/"
-      ],
-      "starships": [
-        "https://swapi.py4e.com/api/starships/12/",
-        "https://swapi.py4e.com/api/starships/22/"
-      ],
+      "vehicles": ["https://swapi.py4e.com/api/vehicles/14/", "https://swapi.py4e.com/api/vehicles/30/"],
+      "starships": ["https://swapi.py4e.com/api/starships/12/", "https://swapi.py4e.com/api/starships/22/"],
       "created": "2014-12-09T13:50:51.644000Z",
       "edited": "2014-12-20T21:17:56.891000Z",
       "url": "https://swapi.py4e.com/api/people/1/"
@@ -142,11 +136,7 @@
       "birth_year": "52BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/1/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -164,11 +154,7 @@
       "birth_year": "47BBY",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/1/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -253,16 +239,9 @@
       "birth_year": "41.9BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/1/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
-      "vehicles": [
-        "https://swapi.py4e.com/api/vehicles/44/",
-        "https://swapi.py4e.com/api/vehicles/46/"
-      ],
+      "vehicles": ["https://swapi.py4e.com/api/vehicles/44/", "https://swapi.py4e.com/api/vehicles/46/"],
       "starships": [
         "https://swapi.py4e.com/api/starships/39/",
         "https://swapi.py4e.com/api/starships/59/",
@@ -282,10 +261,7 @@
       "birth_year": "64BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/21/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -312,10 +288,7 @@
       ],
       "species": ["https://swapi.py4e.com/api/species/3/"],
       "vehicles": ["https://swapi.py4e.com/api/vehicles/19/"],
-      "starships": [
-        "https://swapi.py4e.com/api/starships/10/",
-        "https://swapi.py4e.com/api/starships/22/"
-      ],
+      "starships": ["https://swapi.py4e.com/api/starships/10/", "https://swapi.py4e.com/api/starships/22/"],
       "created": "2014-12-10T16:42:45.066000Z",
       "edited": "2014-12-20T21:17:50.332000Z",
       "url": "https://swapi.py4e.com/api/people/13/"
@@ -338,10 +311,7 @@
       ],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.py4e.com/api/starships/10/",
-        "https://swapi.py4e.com/api/starships/22/"
-      ],
+      "starships": ["https://swapi.py4e.com/api/starships/10/", "https://swapi.py4e.com/api/starships/22/"],
       "created": "2014-12-10T16:49:14.582000Z",
       "edited": "2014-12-20T21:17:50.334000Z",
       "url": "https://swapi.py4e.com/api/people/14/"
@@ -374,11 +344,7 @@
       "birth_year": "600BBY",
       "gender": "hermaphrodite",
       "homeworld": "https://swapi.py4e.com/api/planets/24/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/3/",
-        "https://swapi.py4e.com/api/films/4/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/3/", "https://swapi.py4e.com/api/films/4/"],
       "species": ["https://swapi.py4e.com/api/species/5/"],
       "vehicles": [],
       "starships": [],
@@ -396,11 +362,7 @@
       "birth_year": "21BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/22/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": ["https://swapi.py4e.com/api/vehicles/14/"],
       "starships": ["https://swapi.py4e.com/api/starships/12/"],
@@ -484,11 +446,7 @@
       "birth_year": "31.5BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/10/",
-      "films": [
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/", "https://swapi.py4e.com/api/films/5/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": ["https://swapi.py4e.com/api/starships/21/"],
@@ -542,10 +500,7 @@
       "birth_year": "31BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/30/",
-      "films": [
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": ["https://swapi.py4e.com/api/starships/10/"],
@@ -581,10 +536,7 @@
       "birth_year": "41BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/31/",
-      "films": [
-        "https://swapi.py4e.com/api/films/3/",
-        "https://swapi.py4e.com/api/films/7/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/3/", "https://swapi.py4e.com/api/films/7/"],
       "species": ["https://swapi.py4e.com/api/species/8/"],
       "vehicles": [],
       "starships": [],
@@ -692,11 +644,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/18/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/11/"],
       "vehicles": [],
       "starships": [],
@@ -732,11 +680,7 @@
       "birth_year": "46BBY",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/8/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [
@@ -758,10 +702,7 @@
       "birth_year": "52BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/8/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "species": ["https://swapi.py4e.com/api/species/12/"],
       "vehicles": [],
       "starships": [],
@@ -833,10 +774,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/34/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "species": ["https://swapi.py4e.com/api/species/13/"],
       "vehicles": [],
       "starships": [],
@@ -890,10 +828,7 @@
       "birth_year": "72BBY",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/1/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -938,7 +873,7 @@
       "url": "https://swapi.py4e.com/api/people/45/"
     },
     {
-      "name": "Ayla Secura",
+      "name": "Aayla Secura",
       "height": "178",
       "mass": "55",
       "hair_color": "none",
@@ -947,11 +882,7 @@
       "birth_year": "48BBY",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/37/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/15/"],
       "vehicles": [],
       "starships": [],
@@ -1041,11 +972,7 @@
       "birth_year": "72BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/42/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -1063,11 +990,7 @@
       "birth_year": "92BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/43/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/20/"],
       "vehicles": [],
       "starships": [],
@@ -1085,11 +1008,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/44/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/21/"],
       "vehicles": [],
       "starships": [],
@@ -1107,10 +1026,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/45/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/22/"],
       "vehicles": [],
       "starships": [],
@@ -1128,10 +1044,7 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/9/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/23/"],
       "vehicles": [],
       "starships": [],
@@ -1149,10 +1062,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/47/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/24/"],
       "vehicles": [],
       "starships": [],
@@ -1188,11 +1098,7 @@
       "birth_year": "22BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/49/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/26/"],
       "vehicles": [],
       "starships": ["https://swapi.py4e.com/api/starships/48/"],
@@ -1210,10 +1116,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/50/",
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "species": ["https://swapi.py4e.com/api/species/27/"],
       "vehicles": [],
       "starships": [],
@@ -1285,10 +1188,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/11/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/28/"],
       "vehicles": [],
       "starships": [],
@@ -1306,10 +1206,7 @@
       "birth_year": "58BBY",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/51/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/29/"],
       "vehicles": [],
       "starships": [],
@@ -1363,10 +1260,7 @@
       "birth_year": "102BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/52/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": ["https://swapi.py4e.com/api/vehicles/55/"],
       "starships": [],
@@ -1384,10 +1278,7 @@
       "birth_year": "67BBY",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/2/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -1513,10 +1404,7 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/28/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": [],
       "vehicles": [],
       "starships": [],
@@ -1570,10 +1458,7 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/58/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/35/"],
       "vehicles": [],
       "starships": [],
@@ -1627,10 +1512,7 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.py4e.com/api/planets/2/",
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/6/"],
       "species": ["https://swapi.py4e.com/api/species/1/"],
       "vehicles": [],
       "starships": [],
@@ -1648,10 +1530,7 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.py4e.com/api/planets/60/",
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "species": [],
       "vehicles": [],
       "starships": [],
