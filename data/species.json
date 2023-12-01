@@ -107,10 +107,7 @@
       "average_lifespan": "400",
       "homeworld": "https://swapi.py4e.com/api/planets/14/",
       "language": "Shyriiwook",
-      "people": [
-        "https://swapi.py4e.com/api/people/13/",
-        "https://swapi.py4e.com/api/people/80/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/13/", "https://swapi.py4e.com/api/people/80/"],
       "films": [
         "https://swapi.py4e.com/api/films/1/",
         "https://swapi.py4e.com/api/films/2/",
@@ -151,10 +148,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/24/",
       "language": "Huttese",
       "people": ["https://swapi.py4e.com/api/people/16/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-10T17:12:50.410000Z",
       "edited": "2014-12-20T21:36:42.146000Z",
       "url": "https://swapi.py4e.com/api/species/5/"
@@ -278,15 +272,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.py4e.com/api/planets/8/",
       "language": "Gungan basic",
-      "people": [
-        "https://swapi.py4e.com/api/people/36/",
-        "https://swapi.py4e.com/api/people/37/",
-        "https://swapi.py4e.com/api/people/38/"
-      ],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/36/", "https://swapi.py4e.com/api/people/37/", "https://swapi.py4e.com/api/people/38/"],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "created": "2014-12-19T17:30:37.341000Z",
       "edited": "2014-12-20T21:36:42.163000Z",
       "url": "https://swapi.py4e.com/api/species/12/"
@@ -303,10 +290,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/34/",
       "language": "Toydarian",
       "people": ["https://swapi.py4e.com/api/people/40/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/5/"],
       "created": "2014-12-19T17:48:56.893000Z",
       "edited": "2014-12-20T21:36:42.165000Z",
       "url": "https://swapi.py4e.com/api/species/13/"
@@ -339,10 +323,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.py4e.com/api/planets/37/",
       "language": "Twi'leki",
-      "people": [
-        "https://swapi.py4e.com/api/people/45/",
-        "https://swapi.py4e.com/api/people/46/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/45/", "https://swapi.py4e.com/api/people/46/"],
       "films": [
         "https://swapi.py4e.com/api/films/3/",
         "https://swapi.py4e.com/api/films/4/",
@@ -416,10 +397,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/41/",
       "language": "Tundan",
       "people": ["https://swapi.py4e.com/api/people/50/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:08:36.795000Z",
       "edited": "2014-12-20T21:36:42.177000Z",
       "url": "https://swapi.py4e.com/api/species/19/"
@@ -436,10 +414,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/43/",
       "language": "Cerean",
       "people": ["https://swapi.py4e.com/api/people/52/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:15:33.765000Z",
       "edited": "2014-12-20T21:36:42.179000Z",
       "url": "https://swapi.py4e.com/api/species/20/"
@@ -472,10 +447,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.py4e.com/api/planets/45/",
       "language": "Zabraki",
-      "people": [
-        "https://swapi.py4e.com/api/people/44/",
-        "https://swapi.py4e.com/api/people/54/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/44/", "https://swapi.py4e.com/api/people/54/"],
       "films": ["https://swapi.py4e.com/api/films/4/"],
       "created": "2014-12-20T10:26:59.894000Z",
       "edited": "2014-12-20T21:36:42.183000Z",
@@ -493,10 +465,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/46/",
       "language": "unknown",
       "people": ["https://swapi.py4e.com/api/people/55/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:29:13.798000Z",
       "edited": "2014-12-20T21:36:42.186000Z",
       "url": "https://swapi.py4e.com/api/species/23/"
@@ -513,10 +482,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/47/",
       "language": "Iktotchese",
       "people": ["https://swapi.py4e.com/api/people/56/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:32:13.046000Z",
       "edited": "2014-12-20T21:36:42.188000Z",
       "url": "https://swapi.py4e.com/api/species/24/"
@@ -533,10 +499,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/48/",
       "language": "Quermian",
       "people": ["https://swapi.py4e.com/api/people/57/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:34:50.827000Z",
       "edited": "2014-12-20T21:36:42.189000Z",
       "url": "https://swapi.py4e.com/api/species/25/"
@@ -553,10 +516,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/49/",
       "language": "Kel Dor",
       "people": ["https://swapi.py4e.com/api/people/58/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:49:21.692000Z",
       "edited": "2014-12-20T21:36:42.191000Z",
       "url": "https://swapi.py4e.com/api/species/26/"
@@ -573,10 +533,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/50/",
       "language": "Chagria",
       "people": ["https://swapi.py4e.com/api/people/59/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T10:53:28.795000Z",
       "edited": "2014-12-20T21:36:42.193000Z",
       "url": "https://swapi.py4e.com/api/species/27/"
@@ -593,10 +550,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/11/",
       "language": "Geonosian",
       "people": ["https://swapi.py4e.com/api/people/63/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T16:40:45.618000Z",
       "edited": "2014-12-20T21:36:42.195000Z",
       "url": "https://swapi.py4e.com/api/species/28/"
@@ -612,14 +566,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.py4e.com/api/planets/51/",
       "language": "Mirialan",
-      "people": [
-        "https://swapi.py4e.com/api/people/64/",
-        "https://swapi.py4e.com/api/people/65/"
-      ],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/64/", "https://swapi.py4e.com/api/people/65/"],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T16:46:48.290000Z",
       "edited": "2014-12-20T21:36:42.197000Z",
       "url": "https://swapi.py4e.com/api/species/29/"
@@ -636,10 +584,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/54/",
       "language": "Clawdite",
       "people": ["https://swapi.py4e.com/api/people/70/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T16:57:46.171000Z",
       "edited": "2014-12-20T21:36:42.199000Z",
       "url": "https://swapi.py4e.com/api/species/30/"
@@ -672,10 +617,7 @@
       "average_lifespan": "80",
       "homeworld": "https://swapi.py4e.com/api/planets/10/",
       "language": "Kaminoan",
-      "people": [
-        "https://swapi.py4e.com/api/people/72/",
-        "https://swapi.py4e.com/api/people/73/"
-      ],
+      "people": ["https://swapi.py4e.com/api/people/72/", "https://swapi.py4e.com/api/people/73/"],
       "films": ["https://swapi.py4e.com/api/films/5/"],
       "created": "2014-12-20T17:31:24.838000Z",
       "edited": "2014-12-20T21:36:42.202000Z",
@@ -693,10 +635,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/56/",
       "language": "Skakoan",
       "people": ["https://swapi.py4e.com/api/people/76/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T17:53:54.515000Z",
       "edited": "2014-12-20T21:36:42.204000Z",
       "url": "https://swapi.py4e.com/api/species/33/"
@@ -713,10 +652,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/57/",
       "language": "Muun",
       "people": ["https://swapi.py4e.com/api/people/77/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T17:58:19.088000Z",
       "edited": "2014-12-20T21:36:42.207000Z",
       "url": "https://swapi.py4e.com/api/species/34/"
@@ -733,10 +669,7 @@
       "homeworld": "https://swapi.py4e.com/api/planets/58/",
       "language": "Togruti",
       "people": ["https://swapi.py4e.com/api/people/78/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T18:44:03.246000Z",
       "edited": "2014-12-20T21:36:42.209000Z",
       "url": "https://swapi.py4e.com/api/species/35/"

@@ -523,10 +523,7 @@
         "https://swapi.py4e.com/api/people/88/"
       ],
       "planets": ["https://swapi.py4e.com/api/planets/61/"],
-      "starships": [
-        "https://swapi.py4e.com/api/starships/10/",
-        "https://swapi.py4e.com/api/starships/77/"
-      ],
+      "starships": ["https://swapi.py4e.com/api/starships/10/", "https://swapi.py4e.com/api/starships/77/"],
       "vehicles": [],
       "species": [
         "https://swapi.py4e.com/api/species/1/",

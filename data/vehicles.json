@@ -17,10 +17,7 @@
       "consumables": "2 months",
       "vehicle_class": "wheeled",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/5/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/5/"],
       "created": "2014-12-10T15:36:25.724000Z",
       "edited": "2014-12-20T21:30:21.661000Z",
       "url": "https://swapi.py4e.com/api/vehicles/4/"
@@ -74,11 +71,7 @@
       "consumables": "2 days",
       "vehicle_class": "starfighter",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/1/",
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/1/", "https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-10T16:33:52.860000Z",
       "edited": "2014-12-20T21:30:21.670000Z",
       "url": "https://swapi.py4e.com/api/vehicles/8/"
@@ -95,10 +88,7 @@
       "cargo_capacity": "10",
       "consumables": "none",
       "vehicle_class": "airspeeder",
-      "pilots": [
-        "https://swapi.py4e.com/api/people/1/",
-        "https://swapi.py4e.com/api/people/18/"
-      ],
+      "pilots": ["https://swapi.py4e.com/api/people/1/", "https://swapi.py4e.com/api/people/18/"],
       "films": ["https://swapi.py4e.com/api/films/2/"],
       "created": "2014-12-15T12:22:12Z",
       "edited": "2014-12-20T21:30:21.672000Z",
@@ -117,10 +107,7 @@
       "consumables": "2 days",
       "vehicle_class": "space/planetary bomber",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-15T12:33:15.838000Z",
       "edited": "2014-12-20T21:30:21.675000Z",
       "url": "https://swapi.py4e.com/api/vehicles/16/"
@@ -138,10 +125,7 @@
       "consumables": "unknown",
       "vehicle_class": "assault walker",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-15T12:38:25.937000Z",
       "edited": "2014-12-20T21:30:21.677000Z",
       "url": "https://swapi.py4e.com/api/vehicles/18/"
@@ -159,10 +143,7 @@
       "consumables": "none",
       "vehicle_class": "walker",
       "pilots": ["https://swapi.py4e.com/api/people/13/"],
-      "films": [
-        "https://swapi.py4e.com/api/films/2/",
-        "https://swapi.py4e.com/api/films/3/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/2/", "https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-15T12:46:42.384000Z",
       "edited": "2014-12-20T21:30:21.679000Z",
       "url": "https://swapi.py4e.com/api/vehicles/19/"
@@ -251,10 +232,7 @@
       "cargo_capacity": "4",
       "consumables": "1 day",
       "vehicle_class": "speeder",
-      "pilots": [
-        "https://swapi.py4e.com/api/people/1/",
-        "https://swapi.py4e.com/api/people/5/"
-      ],
+      "pilots": ["https://swapi.py4e.com/api/people/1/", "https://swapi.py4e.com/api/people/5/"],
       "films": ["https://swapi.py4e.com/api/films/3/"],
       "created": "2014-12-18T11:20:04.625000Z",
       "edited": "2014-12-20T21:30:21.693000Z",
@@ -273,10 +251,7 @@
       "consumables": "none",
       "vehicle_class": "starfighter",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/4/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/4/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-19T17:09:53.584000Z",
       "edited": "2014-12-20T21:30:21.697000Z",
       "url": "https://swapi.py4e.com/api/vehicles/33/"
@@ -365,10 +340,7 @@
       "cargo_capacity": "1600",
       "consumables": "unknown",
       "vehicle_class": "submarine",
-      "pilots": [
-        "https://swapi.py4e.com/api/people/10/",
-        "https://swapi.py4e.com/api/people/32/"
-      ],
+      "pilots": ["https://swapi.py4e.com/api/people/10/", "https://swapi.py4e.com/api/people/32/"],
       "films": ["https://swapi.py4e.com/api/films/4/"],
       "created": "2014-12-19T17:37:37.924000Z",
       "edited": "2014-12-20T21:30:21.710000Z",
@@ -459,10 +431,7 @@
       "consumables": "unknown",
       "vehicle_class": "gunship",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T18:01:21.014000Z",
       "edited": "2014-12-20T21:30:21.723000Z",
       "url": "https://swapi.py4e.com/api/vehicles/50/"
@@ -498,10 +467,7 @@
       "consumables": "21 days",
       "vehicle_class": "walker",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T18:10:07.560000Z",
       "edited": "2014-12-20T21:30:21.728000Z",
       "url": "https://swapi.py4e.com/api/vehicles/53/"
@@ -555,10 +521,7 @@
       "consumables": "7 days",
       "vehicle_class": "transport",
       "pilots": [],
-      "films": [
-        "https://swapi.py4e.com/api/films/5/",
-        "https://swapi.py4e.com/api/films/6/"
-      ],
+      "films": ["https://swapi.py4e.com/api/films/5/", "https://swapi.py4e.com/api/films/6/"],
       "created": "2014-12-20T18:25:44.912000Z",
       "edited": "2014-12-20T21:30:21.739000Z",
       "url": "https://swapi.py4e.com/api/vehicles/56/"
