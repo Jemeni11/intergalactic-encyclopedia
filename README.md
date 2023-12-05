@@ -20,3 +20,11 @@ Intergalactic Encyclopedia is your ultimate guide to the Star Wars universe! Thi
 ![ScreenShot_1](./screenshots/Screenshot_20230402-131727.png)
 
 ![ScreenShot_2](./screenshots/Screenshot_20230402-131731.png)
+
+## Wait a minute, who are you?
+
+Hello there! I'm Emmanuel Jemeni, and while I primarily work as a Frontend Developer, Mobile App Development interests me. You can find me on various platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-jemeni)
+- [GitHub](https://github.com/Jemeni11)
+- [Twitter/X](https://twitter.com/Jemeni11_)
