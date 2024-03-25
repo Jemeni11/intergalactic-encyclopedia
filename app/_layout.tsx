@@ -1,3 +1,4 @@
+import "expo-dev-client";
 import {
   useFonts,
   Barlow_400Regular,
